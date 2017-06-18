@@ -1,0 +1,321 @@
+[UIDLCMarket]
+m_strDLCMarketTitle=DOWNLOADABLE CONTENT
+
+[UIFinalShell]
+m_sSinglePlayer=SINGLE PLAYER
+m_sMultiplayer=MULTIPLAYER
+m_sDLC=DOWNLOADABLE CONTENT
+m_sExitToDesktop=EXIT TO DESKTOP
+m_strExitToPSNStoreTitle=EXIT TO PlayStation®Store
+m_strExitToPSNStoreBody=To access PlayStation®Store the game will exit.  When you leave PlayStation®Store the game will restart.  Do you want to go to PlayStation®Store?
+m_strYouHasDLC=You now have access to a mini-campaign for XCOM: Enemy Unknown! Start a new game and await word from the Council.
+m_strDLC_Day060_FriendlyName=Slingshot Content Pack
+m_strDLC_Day090_FriendlyName=Progeny Content Pack
+m_strDLC_PackIn_FriendlyName=Elite Soldier Pack
+
+[UIMapList]
+m_sDirectionsMaps=SELECT MAP TO LOAD:
+m_sFilterLabel=FILTER MAPS:
+m_strMapFilter_Abduction=Abduction Maps
+m_strMapFilter_CrashMaps=Crash Maps
+m_strMapFilter_UFOMaps=UFO Maps
+m_strMapFilter_TerrorMaps=Terror Maps
+m_strMapFilter_FinalMaps=Final Maps
+m_strMapFilter_SpecialMaps=Special Maps
+m_strMapFilter_AllMaps=All Maps
+m_strMapList_MouseNav_Back=BACK
+m_strMapList_MouseNav_Accept=PROCEED TO LOADOUTS
+m_strMapList_Back=BACK
+m_strMapList_Accept=PROCEED TO LOADOUTS
+m_sAliensLabel=SELECT ALIENS:
+m_sSpawnGroupLabel=SELECT SPAWN GROUP:
+m_strLabelNotSpecified=Not specified
+m_strBack=BACK
+m_strNext=CONFIRM MAP
+
+[UIMiniLoadoutEditor]
+m_strMiniLoadoutEditor_Finished=FINISH
+m_strMiniLoadoutEditor_PressSTARTWhenFinished=Press START button when finished
+m_strMiniLoadoutEditor_Back=CANCEL
+m_strMiniLoadoutEditor_Info=INFO
+m_strMiniLoadoutEditor_TypeHeader=TYPE:
+m_strMiniLoadoutEditor_ClassHeader=CLASS:
+m_strMiniLoadoutEditor_PrimaryWeaponHeader=PRIMARY WEAPON:
+m_strMiniLoadoutEditor_SecondaryWeaponHeader=SECONDARY WEAPON:
+m_strMiniLoadoutEditor_ArmoreHeader=ARMOR:
+m_strMiniLoadoutEditor_Item1Header=ITEM 1:
+m_strMiniLoadoutEditor_Item2Header=ITEM 2:
+m_strMiniLoadoutEditor_CustomizeHeader=CUSTOMIZE:
+m_strMiniLoadoutEditor_NoneItem=None
+m_strMiniLoadoutEditor_PointsSuffix=pts.
+m_strMiniLoadoutEditor_Directions=UNIT EDITOR
+m_strMiniLoadoutEditor_StatAim=AIM
+m_strMiniLoadoutEditor_StatDefense=DEFENSE
+m_strMiniLoadoutEditor_StatWill=WILL
+m_strMiniLoadoutEditor_StatHP=HP
+m_strMiniLoadoutEditor_ConfirmDiscardChangesTitle=CONFIRM CANCEL
+m_strMiniLoadoutEditor_ConfirmDiscardChangesText=Are you sure you want to cancel? Any changes made will be lost.
+m_strMiniLoadoutEditor_ConfirmDiscardChangesAcceptButton=Yes
+m_strMiniLoadoutEditor_ConfirmDiscardChangesCancelButton=No
+m_strMiniLoadoutEditor_CantEditText=Can't edit text. An Xbox LIVE connection is required to validate appropriate language.
+m_strMiniLoadoutEditor_TextValidationTimedOut=Can't edit text. Text validation has timed out.
+m_strMiniLoadoutEditor_PermissionsPreventsTextEdit=Unable to edit text due to chat restrictions.
+m_strMiniLoadoutEditor_ValidatingText=Validating Text...
+
+[UIMultiplayerLoadout]
+m_strMPLoadout_Select=SELECT
+m_strMPLoadout_Back=BACK
+m_strMPLoadout_ClearUnit=CLEAR UNIT
+m_strMPLoadout_Loading=LOADING MAP...
+m_strMPLoadout_Ready=READY
+m_strMPLoadout_PressSTARTWhenReady=Press START button when ready
+m_strMPLoadout_CancelReady=CANCEL READY
+m_strMPLoadout_AllPlayersReady=All players ready.
+m_strMPLoadout_ReadyOverlayMessage=READY! Waiting for other player...
+m_strMPLoadout_PressStart=Press START button to begin.
+m_strMPLoadout_Mouse_Start=START GAME
+m_strMPLoadout_Error_SquadPoints=Squad costs more than the allowed amount.
+m_strMPLoadout_Error_InvalidSquad=You need to create a valid squad before proceeding.
+m_strMPLoadout_InviteFriends=INVITE FRIENDS
+m_strMPLoadout_InviteXboxLIVEParty=INVITE Xbox LIVE Party
+m_strMPLoadout_ViewOpponentGamertag=VIEW OPPONENT GAMER CARD
+m_strMPLoadout_ViewOpponentProfile=VIEW OPPONENT PROFILE
+m_strConfirmExitTitle=CONFIRM MULTIPLAYER EXIT
+m_strConfirmExitText=Are you sure you want to exit Multiplayer?
+m_strm_strConfirmExitAcceptButton=Confirm Exit
+m_strm_strConfirmExitCancelButton=Cancel
+m_strSaveChangesMadeTitle=LOADOUT CHANGES DETECTED
+m_strSaveChangesMadeText=Your loadout has changed, would you like to save now?
+m_strSaveChangesOverRankedPtsText=Your loadout has too many points to play in a Ranked match, would you still like to save?
+m_strm_strSaveChangesMadeAcceptButton=Save Changes
+m_strm_strSaveChangesMadeCancelButton=Discard Changes
+m_strConfirmDiscardChangesTitle=CONFIRM DISCARD CHANGES
+m_strConfirmDiscardChangesText=All loadout changes will be discarded, continue leaving this screen?
+m_strm_strConfirmDiscardChangesAcceptButton=Discard & Exit
+m_strm_strConfirmDiscardChangesCancelButton=Stay on Screen
+m_strPlayerLeftDialog_Title=Player Left
+m_strPlayerLeftDialog_Text=has left the match.
+
+[UIMultiplayerLoadout_LocalPlayerInfo]
+m_strMPLoadout_LocalPlayerInfo_ButtonHelp_Add=ADD
+m_strMPLoadout_LocalPlayerInfo_ButtonHelp_Edit=EDIT
+m_strMPLoadout_LocalPlayerInfo_ButtonHelp_Clear=CLEAR
+m_strMPLoadout_LocalPlayerInfo_AddUnit=ADD UNIT
+m_strPointsOverageLabel=pts over limit
+m_strPointsRemainingLabel=pts left
+m_strPointsUnlimitedLabel=UNLIMITED
+m_strMPLoadout_ConfirmClearUnitTitle=CONFIRM CLEAR
+m_strMPLoadout_ConfirmClearUnitText=Are you sure you want to clear this Unit Slot?
+m_strMPLoadout_ConfirmClearUnitAcceptButton=CONFIRM
+m_strMPLoadout_ConfirmClearUnitCancelButton=CANCEL
+
+[XComMPLobbyGRI]
+ItemCardMessages[eAbility_ShotMulti]=Spread shot, item card message
+
+[UIMultiplayerLoadout_GameInfo]
+m_strMPLoadout_GameInfo_WaitingForPlayers=WAITING FOR PLAYERS
+m_strMPLoadout_GameInfo_Start=START MATCH
+m_arrGameTypeStrings[0]=Deathmatch
+m_arrGameTypeStrings[1]=Assault
+m_arrNetworkTypeStrings[0]=Public
+m_arrNetworkTypeStrings[1]=Private
+m_arrNetworkTypeStrings[2]=System Link
+m_strRankedMatch=Ranked
+m_strUnrankedMatch=Unranked
+m_strTurnTimerSuffix=seconds per turn
+m_strTurnTimerInfinite=No Time Limit
+
+[UIMultiplayerLoadout_RemotePlayerInfo]
+m_strMPLoadout_RemotePlayerInfo_Ready=READY!
+m_strMPLoadout_RemotePlayerInfo_Waiting=Still customizing loadouts...
+m_strMPLoadout_RemotePlayerInfo_PointsUnlimitedLabel=UNLIMITED
+
+[XComMultiplayerShellUI]
+m_strMPMainMenuTitle=MULTIPLAYER
+m_strMPSubMenuTitle=CUSTOM MATCH
+m_aSubMenuOptionStrings[eMPSubMenu_Host]=CREATE GAME
+m_aSubMenuOptionStrings[eMPSubMenu_Search]=SEARCH
+m_aSubMenuOptionStrings[eMPSubMenu_PartySessions]=FIND Xbox LIVE Party
+m_strMPCustomMatchAnyString=Any
+m_strMPCustomMatchInfinitePointsString=No Point Limit
+m_strMPCustomMatchInfiniteTurnTimeString=No Time Limit
+m_strMPCustomMatchLabels[eMCustomMatchOption_Visibility]=MATCH TYPE
+m_strMPCustomMatchLabels[eMCustomMatchOption_Points]=POINTS
+m_strMPCustomMatchLabels[eMCustomMatchOption_Timer]=TURN TIME
+m_strMPCustomMatchLabels[eMCustomMatchOption_Map]=MAP
+m_strMPCustomMatchHostTitle=CUSTOM MATCH HOST
+m_strMPCustomMatchSearchTitle=CUSTOM MATCH SEARCH
+m_strMPCustomMatchTimerValue=<XGParam:IntValue0/>s
+m_strMPSearcingForGamesProgressDialogTitle=SEARCHING FOR GAMES
+m_strMPSearcingForGamesProgressDialogText=Searching for <XGParam:StrValue0/> games. Please wait...
+m_strMPCancelSearchProgressDialogTitle=CANCELLING
+m_strMPCancelSearchProgressDialogText=Cancelling search. Please wait...
+m_strMPJoiningGameProgressDialogTitle=JOINING GAME
+m_strMPJoiningGameProgressDialogText=Joining <XGParam:StrValue0/>. Please wait...
+m_strMPServerBrowserTitle=GAME BROWSER - <XGParam:StrValue0/>
+m_strMPServerBrowserSearchInProgressLabel=SEARCH IN PROGRESS
+m_strMPServerBrowserNoServersFoundLabel=NO GAMES FOUND
+m_strMPServerBrowserRefreshButtonLabel=REFRESH LIST
+m_strMPLeaderboardsSearchInProgressLabel=FETCHING LEADERBOARD
+m_strMPLeaderboardsNoResultsFoundLabel=NO RESULTS FOUND
+m_strMPFetchingLeaderboardsProgressDialogTitle=OBTAINING RANKINGS
+m_strMPFetchingLeaderboardsProgressDialogText=Obtaining Leaderboard data. Please wait...
+m_strOnlineLoginFailedDialog_Default_Title=Not Signed In
+m_strOnlineLoginFailedDialog_Default_Text=There was a problem logging in to the online service, please try logging in again.
+m_strOnlineLoginFailedDialog_XBOX_Text=You need to be signed into Xbox LIVE to access Xbox LIVE game play features.<br>Multiplayer gameplay will be limited to system link only.
+m_strOnlineLoginFailedDialog_PS3_Text=You need to be signed into PlayStation®Network to access ONLINE game features.<br>Multiplayer gameplay will be limited to LAN only.
+m_strOnlineLoginFailedDialog_ButtonText=Ok
+m_strOnlinePlayPermissionFailedDialog_Default_Title=Limited Online Play
+m_strOnlinePlayPermissionFailedDialog_Default_Text=Online play has been limited to local games only.  Ranked, Unranked Public, and Unranked Private games will not be available.
+m_strOnlinePlayPermissionFailedDialog_XBOX_Title=Multiplayer Permissions Failed
+m_strOnlinePlayPermissionFailedDialog_XBOX_Text=Your gamer profile does not have the correct permissions to access Xbox LIVE functionality.
+m_strOnlinePlayPermissionFailedDialog_PS3_Text=Online service is disabled on your Sony Entertainment Network account due to parental control restrictions.
+m_strOnlinePlayPermissionFailedDialog_ButtonText=Ok
+m_strOnlineConnectionFailedDialog_Default_Title=Connection Lost
+m_strOnlineConnectionFailedDialog_Default_Text=Your online connection has been lost.  Multiplayer functionality will be limited to local games.
+m_strOnlineConnectionFailedDialog_XBOX_Title=Xbox LIVE Connection Lost
+m_strOnlineConnectionFailedDialog_XBOX_Text=Your connection to Xbox LIVE has been lost.  Multiplayer functionality will be limited to system link games.
+m_strOnlineConnectionFailedDialog_ButtonText=Ok
+m_strOnlineNoNetworkConnectionDialog_Default_Title=Network Connection Unavailable
+m_strOnlineNoNetworkConnectionDialog_Default_Text=Unable to detect a network connection. Make sure that your Ethernet cable is properly connected or Wireless Router is operating correctly.  Multiplayer functionality will be disabled until the issue is resolved.
+m_strOnlineNoNetworkConnectionDialog_XBOX_Title=Network Connection Unavailable
+m_strOnlineNoNetworkConnectionDialog_XBOX_Text=You need to be signed into Xbox LIVE to access Xbox LIVE features. Unable to detect a network connection. Make sure that your Ethernet cable is properly connected or Wireless Router is operating correctly. Multiplayer functionality will be disabled until the issue is resolved.
+m_strOnlineNoNetworkConnectionDialog_PS3_Title=Network Connection Unavailable
+m_strOnlineNoNetworkConnectionDialog_PS3_Text=Unable to detect a network connection. Make sure that your Ethernet cable is properly connected or Wireless Router is operating correctly, then confirm your Internet Connection is enabled by going to the [System Menu] > [Settings] > [Network Settings].  Multiplayer functionality will be disabled until the issue is resolved.
+m_strOnlineNoNetworkConnectionDialog_ButtonText=Ok
+m_strOnlineChatPermissionFailedDialog_Default_Title=Online Chat Disabled
+m_strOnlineChatPermissionFailedDialog_PS3_Title=Online Chat Off
+m_strOnlineChatPermissionFailedDialog_Default_Text=Chat is disabled on your account due to chat restrictions.
+m_strOnlineChatPermissionFailedDialog_XBOX_Text=Voice chat has been turned off because one or more signed-in users does not have sufficient privileges.
+m_strOnlineChatPermissionFailedDialog_PS3_Text=Chat is disabled on your Sony Entertainment Network account due to chat restrictions.
+m_strOnlineChatPermissionFailedDialog_ButtonText=Ok
+
+[UIMultiplayerShell]
+FetchingMPData=Accessing Online Data
+
+[UIMultiplayerServerBrowser]
+m_strJoinGame=JOIN GAME
+m_strRefreshButtonLabel=REFRESH LIST
+m_strHostColumnHeader=HOST
+m_strHostColumnHeader_XBOX=HOST GAMERTAG
+m_strMapColumnHeader=MAP
+m_strPointsColumnHeader=POINTS
+m_strTurnTimeColumnHeader=TURN TIME
+m_strPingColumnHeader=PING
+m_strViewGameTag=VIEW PLAYER INFO
+m_strViewGameTag_XBOX=VIEW GAMER CARD
+
+[UIMultiplayerLeaderboards]
+m_strViewGamertagButtonLabel=VIEW GAMER CARD
+m_strViewStatsButtonLabel=VIEW STATS
+m_strJoinGame=JOIN GAME
+m_strRankColumnHeader=RANK
+m_strWinsColumnHeader=WINS
+m_strLossesColumnHeader=LOSSES
+m_strDisconnectsColumnHeader=DISCONNECTS
+m_strYourRankTab=YOUR RANK
+m_strTopPlayersTab=TOP PLAYERS
+m_strFriendRanksTab=FRIEND RANKS
+m_strRefreshButtonLabel=REFRESH
+
+[UIOptionsShell]
+m_sAutoSaveOptionText=Enable Auto-Save
+m_sSoundFXMuteOptionText=Mute Sound FX
+m_sMusicMuteOptionText=Mute Music
+m_sVoiceMuteOptionText=Mute Voice
+m_sMouseOptionText=Activate mouse in Tactical
+
+[UISaveExplanationScreen]
+m_sDesc=This symbol indicates that your game progress is being saved.\nDo not turn off the console when it is displayed.
+m_sDescPS3=This symbol indicates that your game progress is being saved. Do not turn off the PlayStation®3 system when it is displayed.
+m_sDescPC=This symbol indicates that your game progress is being saved.\nDo not turn off your computer when it is displayed.
+
+[UIShell]
+m_sTactical=TACTICAL
+m_sStrategy=STRATEGY
+m_sLoad=LOAD GAME
+m_sSpecial=DEMO
+m_sOptions=OPTIONS
+m_sTutorial=TUTORIAL
+m_sFinalShellDebug=FINAL SHELL MENUS
+
+[UISinglePlayerGameSetup]
+m_sDirectionsMaps=Select map to load:
+m_sDirectionsSoldiers=Modify Squad:
+m_sSoldierLabel=Soldier
+m_sLoadoutColumnLabel=Loadout
+m_sArmorColumnLabel=Armor
+m_sEmptySlotLabel=Empty
+m_sAlienColumnLabel=Alien Type
+m_sFilterLabel=Filter Maps:
+m_aFilterTypes[0]=-
+m_aFilterTypes[1]=Abduction Maps
+m_aFilterTypes[2]=Crash Maps
+m_aFilterTypes[3]=UFO Maps
+m_aFilterTypes[4]=Terror Maps
+m_aFilterTypes[5]=Final Maps
+m_aFilterTypes[6]=Special Maps
+m_aFilterTypes[7]=-
+m_aFilterTypes[8]=-
+m_aFilterTypes[9]=-
+m_aFilterTypes[10]=-
+m_aFilterTypes[11]=-
+m_aFilterTypes[12]=-
+m_aFilterTypes[13]=-
+m_aFilterTypes[14]=All Maps
+m_strMouseNav_Back=Back
+m_strMouseNav_StartGame=Start Game
+
+[UISinglePlayerLoadout]
+m_strSPLoadout_AddUnit=ADD UNIT
+m_strSPLoadout_ClearUnit=CLEAR UNIT
+m_strSPLoadout_NoUnits=You must equip at least one unit before starting a mission.
+m_strBack=BACK
+m_strNext=START GAME
+
+[UISPMiniLoadoutEditor]
+m_strSPMiniLoadoutEditor_RankHeader=CLASS:
+m_strSPMiniLoadoutEditor_CharHeader=CHARACTER TYPE:
+m_strSPMiniLoadoutEditor_WeaponHeader=WEAPON:
+m_strSPMiniLoadoutEditor_ArmorHeader=ARMOR
+m_strSPMiniLoadoutEditor_ItemHeader=ITEM:
+m_strSPMiniLoadoutEditor_PistolHeader=PISTOL:
+m_strSPMiniLoadoutEditor_HeavyWeapon=HEAVY WEAPON
+m_strSPMiniLoadoutEditor_NoneItem=NONE
+m_strSPMiniLoadoutEditor_FinishedEditing=FINISHED EDITING
+m_strSPMiniLoadoutEditor_Directions=EDITING UNIT
+m_strSPMiniLoadoutEditor_Finished=FINISHED EDITING
+m_strSPMiniLoadoutEditor_Back=CANCEL EDITING
+
+[UIStartScreen]
+m_sPressStartXbox=PRESS START %BUTTON
+m_sPressStartPS3=Press START button
+m_sPressStartPC=START
+m_sVersionLabel=VERSION
+m_sController1Required=Please use a wireless controller connected to port 1
+m_sStandardControllerRequired=Please use a standard wireless controller
+
+[XComShellPresentationLayer]
+m_strOnlineRankedAutomatchFailed_Title=Ranked Matchmaking Failed
+m_strOnlineRankedAutomatchFailed_Text=There was a problem finding Ranked matches, please try again.
+m_strOnlineRankedAutomatchFailed_ButtonText=OK
+m_strOnlineUnrankedAutomatchFailed_Title=Quick Match Failed
+m_strOnlineUnrankedAutomatchFailed_Text=There was a problem finding Quick Match games, please try again.
+m_strOnlineUnrankedAutomatchFailed_ButtonText=OK
+m_strOnlineReadRankedStatsFailed_Title=Ranked Match Failed
+m_strOnlineReadRankedStatsFailed_Text=There was a problem finding Ranked matches, please try again.
+m_strOnlineReadRankedStatsFailed_ButtonText=OK
+m_strOnlineReadRankedStats_Text=Reading ranked stats. Please wait...
+m_strOnlineSearchForRankedAutomatch_Title=Ranked Match
+m_strOnlineSearchForRankedAutomatch_Text=Searching for Ranked Matches. Please wait...
+m_strOnlineSearchForUnrankedAutomatch_Title=Unranked Match
+m_strOnlineSearchForUnrankedAutomatch_Text=Searching for Unranked Matches. Please wait...
+m_strOnlineCancelCreateOnlineGame_Title=Creating Online Game
+m_strOnlineCancelCreateLANGame_Title=Creating LAN Game
+m_strOnlineCancelCreateSystemLinkGame_Title=Creating System Link Game
+m_strOnlineCancelCreateOnlineGame_Text=If the game does not load soon this could indicate a network connection problem.
+m_strOnlineCancelCreateOnlineGame_ButtonText=Cancel
+m_strSelectSaveDeviceForEditSquadPrompt=You have not selected a storage device. You will need to select a storage device in order to save your squad loadout. Do you want to select one now?
+
+[XComUIShell.UIFinalShell]
+

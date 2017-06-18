@@ -1,0 +1,27 @@
+[DLC_Day060HQMod]
+CampaignName=Tirachinas
+
+[Day060TUDetector]
+TitleUpdateMissing360=La descarga de contenido usada con esta versión de XCOM: Enemy Unknown requiere la actualización del título más reciente. Si pierdes la actualización del título, no podrás acceder a la descarga de contenido. Si esto ocurre, conéctate a Xbox LIVE y descarga la última actualización del título.
+TitleUpdateMissingPS3=La descarga de contenido usada en esta versión de XCOM: Enemy Unknown requiere la actualización más reciente. Si pierdes la actualización,  no podrás acceder a la descarga de contenido. Si esto ocurre, conéctate a PlayStation®Network y descarga la última actualización.
+
+[CharacterNames]
+m_strDLC1_1_Given=Shaojie
+m_strDLC1_1_Sur=Zhang
+m_strDLC1_1Nick=Chilong
+
+[DLC1_1Objectives]
+m_strDLC1_1Obj1=Escolta a Zhang hasta la zona de evacuación.
+m_strDLC1_1Obj2=Mata a todos los alienígenas que queden.
+m_strDLC1_1Obj3=Todos los soldados en la zona de evacuación.
+
+[DLC1_2Objectives]
+m_strDLC1_2Obj1=Coloca transpondedores de navegación a lo largo del tren.
+m_strDLC1_2Obj3=Activa el sistema de conducción del tren en la sala de control.
+m_strDLC1_2TurnsRem=Turnos restantes:
+
+[DLC1_3Objectives]
+m_strDLC1_3ConduitsRemaining=Conductos de energía restantes:
+m_strDLC1_3Obj1=Destruye o deshabilita todos los conductos de energía de la nave.
+m_strDLC1_3Obj2=Elimina cualquier resistencia.
+

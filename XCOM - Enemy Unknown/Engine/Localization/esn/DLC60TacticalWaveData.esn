@@ -1,0 +1,679 @@
+[CEN_DLC1_M01_AcquireZhang SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Es nuestro hombre, y parece que lleva el material consigo. Tenemos que asegurarnos de que llegue al punto de extracción sano y salvo... Sus antiguos jefes, por no mencionar a los invasores, le estarán buscando.
+Comment=
+
+[CEN_DLC1_M01_BossArrives SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Atención, comandante... Tenemos un contacto intermitente... Es algo...diferente a los demás.
+Comment=
+
+[CEN_DLC1_M01_Intro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Nos acaba de llegar un informe muy interesante del Consejo. Según parece, un importante matón de las tríadas de Hong Kong afirma tener en sus manos una pieza de equipo alienígena. Nos reuniremos con él y, suponiendo que sea verdad lo que dice, le proporcionaremos escolta.
+Comment=
+
+[CEN_DLC1_M01_KillRemaining_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=The target is secured; eliminate any remaining hostiles in the vicinity.
+Comment=
+
+[CEN_DLC1_M01_KillRemaining_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=The VIP is safe, but we should remove any remaining hostiles near the LZ.
+Comment=
+
+[CEN_DLC1_M01_KillRemaining_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Nuestro objetivo ha alcanzado el punto de extracción. Aseguren la zona circundante y eliminen a los enemigos que queden.
+Comment=
+
+[CEN_DLC1_M01_Success SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=El dispositivo y el contacto están a salvo; vuelvan al cuartel para informar.
+Comment=
+
+[CEN_DLC1_M02_1TransLeft SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Ya casi está, solo queda un transpondedor que activar.
+Comment=
+
+[CEN_DLC1_M02_1TransLeftActivated SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Ya casi está, Strike-uno. Una vez que activen el último transpondedor, el tren podrá partir.
+Comment=
+
+[CEN_DLC1_M02_2TransLeft SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Quedan dos transpondedores. Dense prisa, Strike-uno.
+Comment=
+
+[CEN_DLC1_M02_2TransLeftActivated SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=No se detengan, Strike-uno. Aún quedan dos transpondedores.
+Comment=
+
+[CEN_DLC1_M02_3TransLeft SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Aún quedan tres transpondedores que activar, Strike-uno.
+Comment=
+
+[CEN_DLC1_M02_3TransLeftActivated SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=La señal del transpondedor es alta y clara. Tres más y habrán terminado.
+Comment=
+
+[CEN_DLC1_M02_4TransLeft SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Aún quedan cuatro transpondedores que activar.
+Comment=
+
+[CEN_DLC1_M02_4TransLeftActivated SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Buen trabajo, el transpondedor está emitiendo. Solo quedan cuatro más.
+Comment=
+
+[CEN_DLC1_M02_ActivateBeacon_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Bien, ese transpondedor está en su sitio y funciona. Cuando todos estén en su sitio, comenzarán a transmitir una señal que desbaratará el sistema de navegación alienígena. Si todo sale bien, la señal desviará la nave de batalla de su rumbo, lo que nos permitirá tenderle una emboscada.
+Comment=
+
+[CEN_DLC1_M02_ActivateBeacon_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Detectamos una señal constante del transpondedor.
+Comment=
+
+[CEN_DLC1_M02_ActivateBeacon_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=La señal del transpondedor es alta y clara.
+Comment=
+
+[CEN_DLC1_M02_ActivateBeacon_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Les recibimos... El transpondedor está transmitiendo.
+Comment=
+
+[CEN_DLC1_M02_ActivateBeacon_05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Recibimos una transmisión constante del transpondedor...
+Comment=
+
+[CEN_DLC1_M02_ActivateBeacon_06 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Señal del transpondedor confirmada; la transmisión es estable.
+Comment=
+
+[CEN_DLC1_M02_AlienScouts SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, se aproximan numerosas naves... Parece que provienen de la nave de batalla. Prepárense para el combate de inmediato.
+Comment=
+
+[CEN_DLC1_M02_AliensInbound_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, múltiples enemigos están confluyendo en la zona.
+Comment=
+
+[CEN_DLC1_M02_AliensInbound_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Las unidades enemigas se dirigen a la posición de Strike-uno, comandante.
+Comment=
+
+[CEN_DLC1_M02_AliensInbound_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Numerosos enemigos se están posicionando cerca de la estación de tren.
+Comment=
+
+[CEN_DLC1_M02_AliensInbound_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, detectamos nuevos enemigos sobre el terreno.
+Comment=
+
+[CEN_DLC1_M02_AllBeaconsActive SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Lo hemos conseguido, todos los transpondedores están transmitiendo. Ahora solo tienen que poner en marcha el tren.
+Comment=
+
+[CEN_DLC1_M02_BattleshipCloser_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=La nave de batalla alienígena sigue rumbo a la ciudad, comandante. Tendremos que actuar que rapidez.
+Comment=
+
+[CEN_DLC1_M02_BattleshipCloser_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, se nos acaba el tiempo... ¡Esa nave de batalla aún se dirige directamente a la ciudad! ¡Tenemos que actuar!
+Comment=
+
+[CEN_DLC1_M02_BattleshipCloser_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=¡El pelotón debe actuar, comandante! Esa nave de batalla está peligrosamente cerca de la ciudad.
+Comment=
+
+[CEN_DLC1_M02_BattleshipCloser_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, la nave alienígena ya casi está en posición de ataque.
+Comment=
+
+[CEN_DLC1_M02_BattleshipStrikes SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Hemos tardado demasiado. La nave ha abierto fuego sobre la ciudad.
+Comment=
+
+[CEN_DLC1_M02_Intro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, la nave de batalla alienígena se dirige a la ciudad y no nos queda mucho tiempo para responder. Gracias al dispositivo de Zhang, el Dr. Shen ha desarrollado unos transpondedores modificados que deberían neutralizar el sistema de navegación alienígena. No obstante, la única forma de desplegarlos rápidamente es usar el sistema de ferrocarril urbano de la ciudad.
+Comment=
+
+[CEN_DLC1_M02_LowTime SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Se nos acaba el tiempo, tenemos que activar y mover esos transpondedores inmediatamente.
+Comment=
+
+[CEN_DLC1_M02_LowTime_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Casi no nos queda tiempo... Las naves alienígenas están en camino.
+Comment=
+
+[CEN_DLC1_M02_LowTime_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Tenemos que poner en marcha esos transpondedores; no hay tiempo que perder.
+Comment=
+
+[CEN_DLC1_M02_OneTurnLeft SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, ¡tenemos que poner ese tren en marcha de inmediato!
+Comment=
+
+[CEN_DLC1_M02_Success SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Buen trabajo, comandante. Parece que todos los transpondedores están en posición y el tren está listo para abandonar la estación. Cuando se cruce con la nave, los alienígenas se llevarán una sorpresa.
+Comment=
+
+[CEN_DLC1_M02_TrainIsActive SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=El tren está listo para partir, comandante.
+Comment=
+
+[CEN_DLC1_M02_TrainIsAway SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Muy bien, el tren está en marcha. Strike-uno, regresen a la base.
+Comment=
+
+[CEN_DLC1_M02_TrainReminder SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=El tren no puede partir hasta que hayamos colocado todos los transpondedores, comandante.
+Comment=
+
+[CEN_DLC1_M02_TrainSpotted SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Este es el tren que vamos a usar para transportar los transpondedores. No es lo ideal, pero tendremos que colocar cada transpondedor en una posición fija para garantizar la potencia de la señal.
+Comment=
+
+[CEN_DLC1_M02_TransponderOnRoof SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, el Dr. Shen insiste en que debemos colocar al menos un transpondedor en el techo del tren para garantizar una señal clara. Debemos enviar a alguien allí arriba rápidamente.
+Comment=
+
+[CEN_DLC1_M02_UFOInbound_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, detectamos naves enemigas cerca de la zona.
+Comment=
+
+[CEN_DLC1_M02_UFOInbound_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Se aproximan múltiples OVNI a su posición.
+Comment=
+
+[CEN_DLC1_M02_UFOInbound_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, naves alienígenas se dirigen a la posición del pelotón.
+Comment=
+
+[CEN_DLC1_M02_UFOInbound_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Detectamos OVNI cerca de la estación de ferrocarril, comandante.
+Comment=
+
+[CEN_DLC1_M02_UFOInbound_05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, naves enemigas se acercan a la posición de Strike-uno.
+Comment=
+
+[CEN_DLC1_M03_1PCLeft_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=There's only one more power conduit out there, Strike One. Smash that and you can come on home.
+Comment=
+
+[CEN_DLC1_M03_1PCLeft_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=You're down to the last conduit, Strike-One.
+Comment=
+
+[CEN_DLC1_M03_1PCLeft_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Ya solo queda un conducto. Neutralícenlo y habrán terminado.
+Comment=
+
+[CEN_DLC1_M03_1PCLeftDeactivated_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=¡Conducto deshabilitado! Solo queda uno. Elimínenlo y la nave será nuestra.
+Comment=
+
+[CEN_DLC1_M03_1PCLeftDeactivated_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=You're almost there Strike-One, there's only one conduit left.
+Comment=
+
+[CEN_DLC1_M03_1PCLeftDeactivated_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=You've only got one more conduit to disable, Strike-One. Get moving!
+Comment=
+
+[CEN_DLC1_M03_2PCLeft_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Only two conduits remaining. Get moving.
+Comment=
+
+[CEN_DLC1_M03_2PCLeft_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=You've still got two more power conduits left, Strike-One.
+Comment=
+
+[CEN_DLC1_M03_2PCLeft_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Solo quedan dos conductos, pónganse manos a la obra.
+Comment=
+
+[CEN_DLC1_M03_2PCLeftDeactivated_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Conduit disabled. Only two remaining, Strike One.
+Comment=
+
+[CEN_DLC1_M03_2PCLeftDeactivated_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Negative power readings from that conduit. You've got two left to disable.
+Comment=
+
+[CEN_DLC1_M03_2PCLeftDeactivated_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Otro conducto menos. Solo tienen que desactivar dos más.
+Comment=
+
+[CEN_DLC1_M03_3PCLeft_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Still three conduits remaining, Strike One.
+Comment=
+
+[CEN_DLC1_M03_3PCLeft_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Aún quedan tres conductos activos.
+Comment=
+
+[CEN_DLC1_M03_3PCLeft_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=There are still three power conduits left, Strike-One.
+Comment=
+
+[CEN_DLC1_M03_3PCLeftDeactivated_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=That conduit is reading zero energy. Good work, but there are still three more conduits remaining.
+Comment=
+
+[CEN_DLC1_M03_3PCLeftDeactivated_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=That's one conduit down; you've got three more to go Strike-One.
+Comment=
+
+[CEN_DLC1_M03_3PCLeftDeactivated_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=El conducto de energía está deshabilitado, pero aún quedan tres.
+Comment=
+
+[CEN_DLC1_M03_AlienScouts SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, se aproximan numerosas naves... Parece que provienen de la nave de batalla. Prepárense para el combate de inmediato.
+Comment=
+
+[CEN_DLC1_M03_AliensEscalating_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Commander, we're picking up additional alien forces closing on Strike-One's position.
+Comment=
+
+[CEN_DLC1_M03_AliensEscalating_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=It's getting crowded out there, Commander. Sensors indicate something big headed into the AO.
+Comment=
+
+[CEN_DLC1_M03_AliensEscalating_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Commander, I don't like the looks of this...we're still picking a lot of activity near Strike-One's position. Find some cover and get ready for a fight.
+Comment=
+
+[CEN_DLC1_M03_BattleshipDisabled SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=¡Bien hecho, comandante! Esa nave está oficialmente bajo control de XCOM, aunque... no creo que quepa en el hangar.
+Comment=
+
+[CEN_DLC1_M03_ConduitReminder SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, ese conducto está neutralizado, pero tardaremos menos si destruimos el resto con explosivos.
+Comment=
+
+[CEN_DLC1_M03_ExplainPower_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Knocking out the external power conduits will disable the ship's perimeter defense system. If we can get enough of them, we'll be able to put the ship down without destroying the valuable weapons and equipment carried onboard. You can either approach and disable them or blow them to bits with explosives.
+Comment=
+
+[CEN_DLC1_M03_ExplainPower_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Strike-One, those conduits are directly tied-in to the battleship's power management system. If you can disable or destroy them, we'll be able to disable the ship and recover its contents without shooting it out of the sky first.
+Comment=
+
+[CEN_DLC1_M03_ExplainPower_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Los conductos situados en el casco de la nave están conectados con el sistema eléctrico de la misma. Si logramos deshabilitarlos o destruirlos con explosivos, esa cosa quedará fuera de servicio y podremos hacernos con su cargamento sin sufrir bajas.
+Comment=
+
+[CEN_DLC1_M03_GotAliensAttention SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Comandante, lo que acaban de hacer ha alborotado el avispero. Los alienígenas van a poner todos los medios a su alcance para proteger esa nave.
+Comment=
+
+[CEN_DLC1_M03_Intro SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Big Sky se ha ocupado de la entrega, pero ahora viene lo difícil. Si queremos que la nave de batalla aterrice intacta, tendremos que deshabilitar primero los conductos de energía de su casco. No sabemos lo que nos vamos a encontrar, pero prevemos una fuerte resistencia de los tripulantes alienígenas de la nave.
+Comment=
+
+[CEN_DLC1_M03_MissionCompleteText SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=La captura de la nave sin sufrir daños nos ha permitido recuperar una gran cantidad de equipo y armamento alienígena en perfecto estado.
+Comment=
+
+[CEN_DLC1_M03_PCDeactivated_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Un conducto menos. Sus defensas se debilitan.
+Comment=
+
+[CEN_DLC1_M03_PCDeactivated_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Ese conducto está deshabilitado. Sigan así, Strike-uno.
+Comment=
+
+[CEN_DLC1_M03_PCDeactivated_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Otro conducto menos... Las lecturas de energía están decayendo.
+Comment=
+
+[CEN_DLC1_M03_PCDeactivated_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Cierre del conducto de energía confirmado.
+Comment=
+
+[CEN_DLC1_M03_PCDeactivated_05 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Conducto de energía deshabilitado. Buen trabajo, Strike-uno.
+Comment=
+
+[CEN_DLC1_M03_ShipDownKill SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Casi lo hemos logrado, Strike-uno. Solo tenemos que eliminar a los enemigos restantes y esa nave será nuestra.
+Comment=
+
+[CEN_DLC1_M03_Success SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Una hazaña asombrosa, comandante. Capturar esa nave intacta nos proporcionará acceso a una gran cantidad de tecnología y equipo.
+Comment=
+
+[RailroadsSound SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=
+Comment=
+
+[ZG_DLC1_M01_ZhangAcquired SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=No tardarán en reparar en mi ausencia, sobre todo porque llevo esta cosa encima... Si me lleváis con vosotros, será toda vuestra.
+Comment=
+
+[ZG_DLC1_M01_ZhangAmbient_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=No sé de dónde sacó esto mi jefe, pero escuchó muchas ofertas de compradores potenciales... sin importarle sus intenciones.
+Comment=
+
+[ZG_DLC1_M01_ZhangAmbient_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=El trabajo en sí parecía fácil. No había más que llevar el equipo al lugar designado.
+Comment=
+
+[ZG_DLC1_M01_ZhangAmbient_03 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Pero cuando vi el dispositivo, empecé a temer por las consecuencias de nuestra participación.
+Comment=
+
+[ZG_DLC1_M01_ZhangAmbient_04 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Durante mi vida he cruzado muchas líneas rojas, pero ahora tenemos un enemigo en común.
+Comment=
+
+[ZG_DLC1_M01_ZhangInnerMon SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Estoy vivo... pero la vida que conocía ya no existe. Es curioso que mi vida tome este inesperado rumbo. He dado la espalda a viejos amigos para derrotar al enemigo común.
+Comment=
+
+[ZG_DLC1_M01_ZhangIntroCin_01 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Debéis de ser mis contactos... Nadie con miedo a las represalias haría una entrada así...
+Comment=
+
+[ZG_DLC1_M01_ZhangIntroCin_01b SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Get down!
+Comment=
+
+[ZG_DLC1_M01_ZhangIntroCin_02 SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Hum... No dista tanto de asesinar a un hombre.
+Comment=
+
+[ZG_DLC1_M01_ZhangRecaptured SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=Tome una decisión y la defenderé hasta el final.
+Comment=
+
+[ZG_DLC1_M01_ZhangSaved SoundNodeWave]
+bMature=False
+bManualWordWrap=False
+bSingleLine=False
+SpokenText=He renunciado a todo con tal de mantener este dispositivo lejos de las manos equivocadas. Espero que os sea de utilidad.
+Comment=
+

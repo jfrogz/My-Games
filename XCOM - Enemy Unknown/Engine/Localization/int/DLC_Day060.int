@@ -1,0 +1,27 @@
+[DLC_Day060HQMod]
+CampaignName=Slingshot
+
+[Day060TUDetector]
+TitleUpdateMissing360=Downloadable content used with this version of XCOM: Enemy Unknown will require the most recent title update. If you lose this title update, the downloadable content will not be fully accessible. Should this occur, please reconnect to Xbox LIVE to download the latest title update.
+TitleUpdateMissingPS3=Downloadable content used with this version of XCOM: Enemy Unknown will require the most recent update.  If you lose this update, the downloadable content will not be fully accessible.  Should this occur, please reconnect to PlayStation®Network to download the latest update.
+
+[CharacterNames]
+m_strDLC1_1_Given=Shaojie
+m_strDLC1_1_Sur=Zhang
+m_strDLC1_1Nick=Chilong
+
+[DLC1_1Objectives]
+m_strDLC1_1Obj1=Escort Zhang to the EVAC zone.
+m_strDLC1_1Obj2=Kill any remaining aliens.
+m_strDLC1_1Obj3=All soldiers report to the EVAC zone.
+
+[DLC1_2Objectives]
+m_strDLC1_2Obj1=Place navigation transponders throughout the train.
+m_strDLC1_2Obj3=Activate the train's drive system from the control room.
+m_strDLC1_2TurnsRem=Turns Remaining: 
+
+[DLC1_3Objectives]
+m_strDLC1_3ConduitsRemaining=Power Conduits Remaining: 
+m_strDLC1_3Obj1=Destroy or disable all the ship's power conduits.
+m_strDLC1_3Obj2=Eliminate any resistance.
+

@@ -1,0 +1,321 @@
+[UIDLCMarket]
+m_strDLCMarketTitle=DESCARGA DE CONTENIDO
+
+[UIFinalShell]
+m_sSinglePlayer=UN JUGADOR
+m_sMultiplayer=MULTIJUGADOR
+m_sDLC=DESCARGA DE CONTENIDO
+m_sExitToDesktop=SALIR AL ESCRITORIO
+m_strExitToPSNStoreTitle=SALIR A PlayStation®Store
+m_strExitToPSNStoreBody=Para acceder a PlayStation®Store tendrás que salir del juego. El juego se reiniciará cuando salgas de PlayStation®Store. ¿Quieres ir a PlayStation®Store?
+m_strYouHasDLC=¡Ahora ya tienes acceso a una minicampaña de XCOM: Enemy Unknown! Inicia una nueva partida y aguarda las instrucciones del Consejo.
+m_strDLC_Day060_FriendlyName=Paquete de Contenido Tirachinas
+m_strDLC_Day090_FriendlyName=Paquete de Contenido Linaje
+m_strDLC_PackIn_FriendlyName=Elite Soldier Pack
+
+[UIMapList]
+m_sDirectionsMaps=SELECCIONAR MAPA PARA CARGAR:
+m_sFilterLabel=FILTRAR MAPAS:
+m_strMapFilter_Abduction=Mapas de abducción
+m_strMapFilter_CrashMaps=Mapas de caída
+m_strMapFilter_UFOMaps=Mapas OVNI
+m_strMapFilter_TerrorMaps=Mapas de terror
+m_strMapFilter_FinalMaps=Mapas finales
+m_strMapFilter_SpecialMaps=Mapas especiales
+m_strMapFilter_AllMaps=Todos los mapas
+m_strMapList_MouseNav_Back=ATRÁS
+m_strMapList_MouseNav_Accept=AVANZAR A EQUIPAMIENTOS
+m_strMapList_Back=ATRÁS
+m_strMapList_Accept=AVANZAR A EQUIPAMIENTOS
+m_sAliensLabel=SELECCIONAR ALIENÍGENAS:
+m_sSpawnGroupLabel=GRUPO DE REAPARICIÓN:
+m_strLabelNotSpecified=Sin especificar
+m_strBack=ATRÁS
+m_strNext=CONFIRMAR MAPA
+
+[UIMiniLoadoutEditor]
+m_strMiniLoadoutEditor_Finished=TERMINAR
+m_strMiniLoadoutEditor_PressSTARTWhenFinished=Pulsa START cuando termines
+m_strMiniLoadoutEditor_Back=CANCELAR
+m_strMiniLoadoutEditor_Info=INFORMACIÓN
+m_strMiniLoadoutEditor_TypeHeader=TIPO:
+m_strMiniLoadoutEditor_ClassHeader=CLASE:
+m_strMiniLoadoutEditor_PrimaryWeaponHeader=ARMA PRINCIPAL:
+m_strMiniLoadoutEditor_SecondaryWeaponHeader=ARMA SECUNDARIA:
+m_strMiniLoadoutEditor_ArmoreHeader=ARMADURA:
+m_strMiniLoadoutEditor_Item1Header=ARTÍCULO 1:
+m_strMiniLoadoutEditor_Item2Header=ARTÍCULO 2:
+m_strMiniLoadoutEditor_CustomizeHeader=PERSONALIZAR:
+m_strMiniLoadoutEditor_NoneItem=Ninguno
+m_strMiniLoadoutEditor_PointsSuffix=pts.
+m_strMiniLoadoutEditor_Directions=EDITOR DE UNIDADES
+m_strMiniLoadoutEditor_StatAim=PUNTERÍA
+m_strMiniLoadoutEditor_StatDefense=DEFENSA
+m_strMiniLoadoutEditor_StatWill=VOLUNTAD
+m_strMiniLoadoutEditor_StatHP=PS
+m_strMiniLoadoutEditor_ConfirmDiscardChangesTitle=CONFIRMAR CANCELAR
+m_strMiniLoadoutEditor_ConfirmDiscardChangesText=¿Seguro que quieres cancelar? Se perderán todos los cambios.
+m_strMiniLoadoutEditor_ConfirmDiscardChangesAcceptButton=Sí
+m_strMiniLoadoutEditor_ConfirmDiscardChangesCancelButton=No
+m_strMiniLoadoutEditor_CantEditText=No se puede editar el texto. Se necesita una conexión a Xbox LIVE para validar el idioma apropiado.
+m_strMiniLoadoutEditor_TextValidationTimedOut=No se puede editar el texto. El tiempo de espera de la validación del texto se ha agotado.
+m_strMiniLoadoutEditor_PermissionsPreventsTextEdit=Imposible editar el texto debido a las restricciones de charla.
+m_strMiniLoadoutEditor_ValidatingText=Validando el texto...
+
+[UIMultiplayerLoadout]
+m_strMPLoadout_Select=SELECCIONAR
+m_strMPLoadout_Back=ATRÁS
+m_strMPLoadout_ClearUnit=ELIMINAR UNIDAD
+m_strMPLoadout_Loading=CARGANDO MAPA...
+m_strMPLoadout_Ready=PREPARADO
+m_strMPLoadout_PressSTARTWhenReady=Pulsa START cuando estés listo
+m_strMPLoadout_CancelReady=CANCELAR PREPARADO
+m_strMPLoadout_AllPlayersReady=Todos los jugadores preparados.
+m_strMPLoadout_ReadyOverlayMessage=¡PREPARADO! Esperando oponente...
+m_strMPLoadout_PressStart=Pulsa START para empezar.
+m_strMPLoadout_Mouse_Start=INICIAR PARTIDA
+m_strMPLoadout_Error_SquadPoints=El pelotón cuesta más que la cantidad permitida.
+m_strMPLoadout_Error_InvalidSquad=Tienes que crear un pelotón válido antes de continuar.
+m_strMPLoadout_InviteFriends=INVITAR AMIGOS
+m_strMPLoadout_InviteXboxLIVEParty=INVITAR A Xbox LIVE Party
+m_strMPLoadout_ViewOpponentGamertag=VER TARJETA DE JUGADOR DEL RIVAL
+m_strMPLoadout_ViewOpponentProfile=VER PERFIL DEL RIVAL
+m_strConfirmExitTitle=CONFIRMAR SALIDA DE MULTIJUGADOR
+m_strConfirmExitText=¿Seguro que quieres salir de multijugador?
+m_strm_strConfirmExitAcceptButton=Confirmar salida
+m_strm_strConfirmExitCancelButton=Cancelar
+m_strSaveChangesMadeTitle=CAMBIOS DE EQUIPAMIENTO DETECTADOS
+m_strSaveChangesMadeText=Tu equipamiento ha cambiado. ¿Quieres guardarlo ahora?
+m_strSaveChangesOverRankedPtsText=Tu equipamiento tiene demasiados puntos para jugar en una partida igualada. ¿Quieres guardarlo de todos modos?
+m_strm_strSaveChangesMadeAcceptButton=Guardar cambios
+m_strm_strSaveChangesMadeCancelButton=Descartar cambios
+m_strConfirmDiscardChangesTitle=CONFIRMAR DESCARTAR CAMBIOS
+m_strConfirmDiscardChangesText=Se perderán todos los cambios del equipamiento. ¿Salir de esta pantalla?
+m_strm_strConfirmDiscardChangesAcceptButton=Descartar y salir
+m_strm_strConfirmDiscardChangesCancelButton=Permanecer en la pantalla
+m_strPlayerLeftDialog_Title=El jugador se ha ido
+m_strPlayerLeftDialog_Text=ha abandonado la partida.
+
+[UIMultiplayerLoadout_LocalPlayerInfo]
+m_strMPLoadout_LocalPlayerInfo_ButtonHelp_Add=AÑADIR
+m_strMPLoadout_LocalPlayerInfo_ButtonHelp_Edit=EDITAR
+m_strMPLoadout_LocalPlayerInfo_ButtonHelp_Clear=BORRAR
+m_strMPLoadout_LocalPlayerInfo_AddUnit=AÑADIR UNIDAD
+m_strPointsOverageLabel=pts. sobre el límite
+m_strPointsRemainingLabel=pts. restantes
+m_strPointsUnlimitedLabel=SIN LÍMITE
+m_strMPLoadout_ConfirmClearUnitTitle=CONFIRMAR BORRADO
+m_strMPLoadout_ConfirmClearUnitText=¿Seguro que quieres borrar este espacio de unidad?
+m_strMPLoadout_ConfirmClearUnitAcceptButton=CONFIRMAR
+m_strMPLoadout_ConfirmClearUnitCancelButton=CANCELAR
+
+[XComMPLobbyGRI]
+ItemCardMessages[eAbility_ShotMulti]=Disparo amplio (mensaje de tarjeta de artículo)
+
+[UIMultiplayerLoadout_GameInfo]
+m_strMPLoadout_GameInfo_WaitingForPlayers=ESPERANDO JUGADORES
+m_strMPLoadout_GameInfo_Start=INICIAR PARTIDA
+m_arrGameTypeStrings[0]=Todos contra todos
+m_arrGameTypeStrings[1]=Asalto
+m_arrNetworkTypeStrings[0]=Pública
+m_arrNetworkTypeStrings[1]=Privada
+m_arrNetworkTypeStrings[2]=System Link
+m_strRankedMatch=Partida igualada
+m_strUnrankedMatch=No igualada
+m_strTurnTimerSuffix=segundos por turno
+m_strTurnTimerInfinite=Sin límite de tiempo
+
+[UIMultiplayerLoadout_RemotePlayerInfo]
+m_strMPLoadout_RemotePlayerInfo_Ready=¡PREPARADO!
+m_strMPLoadout_RemotePlayerInfo_Waiting=Personalizando equipamientos...
+m_strMPLoadout_RemotePlayerInfo_PointsUnlimitedLabel=SIN LÍMITE
+
+[XComMultiplayerShellUI]
+m_strMPMainMenuTitle=MULTIJUGADOR
+m_strMPSubMenuTitle=PARTIDA PERSONALIZADA
+m_aSubMenuOptionStrings[eMPSubMenu_Host]=CREAR PARTIDA
+m_aSubMenuOptionStrings[eMPSubMenu_Search]=BUSCAR
+m_aSubMenuOptionStrings[eMPSubMenu_PartySessions]=ENCONTRAR Xbox LIVE Party
+m_strMPCustomMatchAnyString=Cualquiera
+m_strMPCustomMatchInfinitePointsString=Sin límite
+m_strMPCustomMatchInfiniteTurnTimeString=Sin límite
+m_strMPCustomMatchLabels[eMCustomMatchOption_Visibility]=PARTIDA
+m_strMPCustomMatchLabels[eMCustomMatchOption_Points]=PUNTOS
+m_strMPCustomMatchLabels[eMCustomMatchOption_Timer]=TURNO
+m_strMPCustomMatchLabels[eMCustomMatchOption_Map]=MAPA
+m_strMPCustomMatchHostTitle=ANFITRIÓN DE PARTIDA PERSONALIZADA
+m_strMPCustomMatchSearchTitle=BÚSQUEDA DE PARTIDA PERSONALIZADA
+m_strMPCustomMatchTimerValue=<XGParam:IntValue0/> s
+m_strMPSearcingForGamesProgressDialogTitle=BUSCANDO PARTIDAS
+m_strMPSearcingForGamesProgressDialogText=Buscando partidas <XGParam:StrValue0/>. Espera...
+m_strMPCancelSearchProgressDialogTitle=CANCELANDO
+m_strMPCancelSearchProgressDialogText=Cancelando búsqueda. Espera...
+m_strMPJoiningGameProgressDialogTitle=UNIÉNDOSE AL JUEGO
+m_strMPJoiningGameProgressDialogText=Uniéndose a <XGParam:StrValue0/>. Espera...
+m_strMPServerBrowserTitle=EXPLORADOR DE PARTIDAS - <XGParam:StrValue0/>
+m_strMPServerBrowserSearchInProgressLabel=BÚSQUEDA EN PROGRESO
+m_strMPServerBrowserNoServersFoundLabel=NINGUNA PARTIDA ENCONTRADA
+m_strMPServerBrowserRefreshButtonLabel=ACTUALIZAR LISTA
+m_strMPLeaderboardsSearchInProgressLabel=OBTENIENDO MARCADOR
+m_strMPLeaderboardsNoResultsFoundLabel=SIN RESULTADOS
+m_strMPFetchingLeaderboardsProgressDialogTitle=OBTENIENDO CLASIFICACIONES
+m_strMPFetchingLeaderboardsProgressDialogText=Obteniendo datos de marcador. Espera...
+m_strOnlineLoginFailedDialog_Default_Title=No se ha iniciado sesión
+m_strOnlineLoginFailedDialog_Default_Text=Ha ocurrido un problema al iniciar sesión en el servicio en línea. Intenta iniciar sesión de nuevo.
+m_strOnlineLoginFailedDialog_XBOX_Text=Tienes que iniciar sesión en Xbox LIVE para acceder a las funciones de juego de Xbox LIVE.<br>La funcionalidad multijugador se limitará a partidas de System Link.
+m_strOnlineLoginFailedDialog_PS3_Text=Tienes que iniciar sesión en PlayStation®Network para acceder a las funciones de juego ONLINE.<br>La funcionalidad multijugador se limitará a partidas por LAN.
+m_strOnlineLoginFailedDialog_ButtonText=Aceptar
+m_strOnlinePlayPermissionFailedDialog_Default_Title=Juego en línea limitado
+m_strOnlinePlayPermissionFailedDialog_Default_Text=El juego en línea se ha restringido a partidas locales. Las partidas igualadas, públicas no igualadas y privadas no igualadas no estarán disponibles.
+m_strOnlinePlayPermissionFailedDialog_XBOX_Title=Error de permisos multijugador
+m_strOnlinePlayPermissionFailedDialog_XBOX_Text=Tu perfil de jugador no tiene los permisos necesarios para acceder a la funcionalidad de Xbox LIVE.
+m_strOnlinePlayPermissionFailedDialog_PS3_Text=El servicio online de tu cuenta Sony Entertainment Network está desactivado por restricciones de control paterno.
+m_strOnlinePlayPermissionFailedDialog_ButtonText=Aceptar
+m_strOnlineConnectionFailedDialog_Default_Title=Conexión perdida
+m_strOnlineConnectionFailedDialog_Default_Text=Se ha perdido tu conexión online. La funcionalidad multijugador se limitará a partidas locales.
+m_strOnlineConnectionFailedDialog_XBOX_Title=Perdida la conexión con Xbox LIVE
+m_strOnlineConnectionFailedDialog_XBOX_Text=Se ha perdido tu conexión con Xbox LIVE. La funcionalidad multijugador se limitará a partidas de System Link.
+m_strOnlineConnectionFailedDialog_ButtonText=Aceptar
+m_strOnlineNoNetworkConnectionDialog_Default_Title=Conexión de red no disponible
+m_strOnlineNoNetworkConnectionDialog_Default_Text=No se detecta ninguna conexión de red. Comprueba que el Cable de conexión Ethernet esté bien conectado o que el router inalámbrico funcione correctamente. Se desactivará la funcionalidad multijugador hasta que se solucione el problema.
+m_strOnlineNoNetworkConnectionDialog_XBOX_Title=Conexión de red no disponible
+m_strOnlineNoNetworkConnectionDialog_XBOX_Text=Debes haber iniciado sesión en Xbox LIVE para tener acceso a las funciones de Xbox LIVE. No se detecta ninguna conexión de red. Comprueba que el cable de conexión Ethernet esté bien conectado o que el router inalámbrico funcione correctamente. Se desactivará la funcionalidad multijugador hasta que se solucione el problema.
+m_strOnlineNoNetworkConnectionDialog_PS3_Title=Conexión de red no disponible
+m_strOnlineNoNetworkConnectionDialog_PS3_Text=No se detecta ninguna conexión de red. Comprueba que el cable de conexión Ethernet esté bien conectado o que el router inalámbrico funcione correctamente y luego confirma que has activado la conexión a Internet en [Menú principal del sistema] > [Ajustes] > [Ajustes de red]. Se desactivará la funcionalidad multijugador hasta que se solucione el problema.
+m_strOnlineNoNetworkConnectionDialog_ButtonText=Aceptar
+m_strOnlineChatPermissionFailedDialog_Default_Title=Charla en línea desactivada.
+m_strOnlineChatPermissionFailedDialog_PS3_Title=Chat en línea desactivado
+m_strOnlineChatPermissionFailedDialog_Default_Text=Charla desactivada en tu cuenta debido a las restricciones de charla.
+m_strOnlineChatPermissionFailedDialog_XBOX_Text=La charla de voz se ha deshabilitado porque uno o más de los usuarios conectados no tienen suficientes privilegios.
+m_strOnlineChatPermissionFailedDialog_PS3_Text=La función de chat se ha desactivado en tu cuenta Sony Entertainment Network debido a las restricciones de chat.
+m_strOnlineChatPermissionFailedDialog_ButtonText=Aceptar
+
+[UIMultiplayerShell]
+FetchingMPData=Accediendo a datos en línea
+
+[UIMultiplayerServerBrowser]
+m_strJoinGame=UNIRSE A PARTIDA
+m_strRefreshButtonLabel=ACTUALIZAR LISTA
+m_strHostColumnHeader=ANFITRIÓN
+m_strHostColumnHeader_XBOX=GAMERTAG
+m_strMapColumnHeader=MAPA
+m_strPointsColumnHeader=PUNTOS
+m_strTurnTimeColumnHeader=TURNO
+m_strPingColumnHeader=PING
+m_strViewGameTag=INFORMACIÓN DEL JUGADOR
+m_strViewGameTag_XBOX=VER TARJETA DE JUGADOR
+
+[UIMultiplayerLeaderboards]
+m_strViewGamertagButtonLabel=VER TARJETA DE JUGADOR
+m_strViewStatsButtonLabel=VER ESTADÍSTICAS
+m_strJoinGame=UNIRSE A PARTIDA
+m_strRankColumnHeader=CLASIFICACIÓN
+m_strWinsColumnHeader=VICTORIAS
+m_strLossesColumnHeader=DERROTAS
+m_strDisconnectsColumnHeader=DESCONEXIONES
+m_strYourRankTab=TU CLASIFICACIÓN
+m_strTopPlayersTab=MEJORES JUGADORES
+m_strFriendRanksTab=AMIGOS
+m_strRefreshButtonLabel=ACTUALIZAR
+
+[UIOptionsShell]
+m_sAutoSaveOptionText=Activar autoguardado
+m_sSoundFXMuteOptionText=Silenciar efectos de sonido
+m_sMusicMuteOptionText=Silenciar música
+m_sVoiceMuteOptionText=Silenciar voz
+m_sMouseOptionText=Activar ratón en Táctico
+
+[UISaveExplanationScreen]
+m_sDesc=Este símbolo indica que se están guardando tus avances en el juego.\nNo apagues la consola cuando esté visible.
+m_sDescPS3=Este símbolo indica que se están guardando tus avances en el juego.\nNo apagues el sistema PlayStation®3 cuando esté visible.
+m_sDescPC=Este símbolo indica que se están guardando tus avances en el juego.\nNo apagues tu ordenador cuando esté visible.
+
+[UIShell]
+m_sTactical=TÁCTICA
+m_sStrategy=ESTRATEGIA
+m_sLoad=CARGAR PARTIDA
+m_sSpecial=DEMO
+m_sOptions=OPCIONES
+m_sTutorial=TUTORIAL
+m_sFinalShellDebug=FINAL SHELL MENUS
+
+[UISinglePlayerGameSetup]
+m_sDirectionsMaps=Seleccionar mapa para cargar:
+m_sDirectionsSoldiers=Modificar pelotón:
+m_sSoldierLabel=Soldado
+m_sLoadoutColumnLabel=Equipamiento
+m_sArmorColumnLabel=Armadura
+m_sEmptySlotLabel=Vacío
+m_sAlienColumnLabel=Tipo de alienígena
+m_sFilterLabel=Filtrar mapas:
+m_aFilterTypes[0]=-
+m_aFilterTypes[1]=Mapas de abducción
+m_aFilterTypes[2]=Mapas de caída
+m_aFilterTypes[3]=Mapas OVNI
+m_aFilterTypes[4]=Mapas de terror
+m_aFilterTypes[5]=Mapas finales
+m_aFilterTypes[6]=Mapas especiales
+m_aFilterTypes[7]=-
+m_aFilterTypes[8]=-
+m_aFilterTypes[9]=-
+m_aFilterTypes[10]=-
+m_aFilterTypes[11]=-
+m_aFilterTypes[12]=-
+m_aFilterTypes[13]=-
+m_aFilterTypes[14]=Todos los mapas
+m_strMouseNav_Back=Atrás
+m_strMouseNav_StartGame=Iniciar partida
+
+[UISinglePlayerLoadout]
+m_strSPLoadout_AddUnit=AÑADIR UNIDAD
+m_strSPLoadout_ClearUnit=ELIMINAR UNIDAD
+m_strSPLoadout_NoUnits=Debes equipar al menos a una unidad antes de empezar una misión.
+m_strBack=ATRÁS
+m_strNext=INICIAR PARTIDA
+
+[UISPMiniLoadoutEditor]
+m_strSPMiniLoadoutEditor_RankHeader=CLASE:
+m_strSPMiniLoadoutEditor_CharHeader=TIPO DE PERSONAJE:
+m_strSPMiniLoadoutEditor_WeaponHeader=ARMA:
+m_strSPMiniLoadoutEditor_ArmorHeader=ARMADURA
+m_strSPMiniLoadoutEditor_ItemHeader=ARTÍCULO:
+m_strSPMiniLoadoutEditor_PistolHeader=PISTOLA:
+m_strSPMiniLoadoutEditor_HeavyWeapon=ARMA PESADA
+m_strSPMiniLoadoutEditor_NoneItem=NADA
+m_strSPMiniLoadoutEditor_FinishedEditing=EDICIÓN TERMINADA
+m_strSPMiniLoadoutEditor_Directions=EDITANDO UNIDAD
+m_strSPMiniLoadoutEditor_Finished=EDICIÓN TERMINADA
+m_strSPMiniLoadoutEditor_Back=CANCELAR EDICIÓN
+
+[UIStartScreen]
+m_sPressStartXbox=PULSA START %BUTTON
+m_sPressStartPS3=Pulsa el botón START
+m_sPressStartPC=INICIAR
+m_sVersionLabel=VERSIÓN
+m_sController1Required=Usa un mando inalámbrico conectado al puerto 1
+m_sStandardControllerRequired=Usa un mando inalámbrico estándar.
+
+[XComShellPresentationLayer]
+m_strOnlineRankedAutomatchFailed_Title=Error de Matchmaking igualado
+m_strOnlineRankedAutomatchFailed_Text=Ha ocurrido un problema durante la búsqueda de partidas igualadas. Inténtalo de nuevo.
+m_strOnlineRankedAutomatchFailed_ButtonText=Aceptar
+m_strOnlineUnrankedAutomatchFailed_Title=Error de partida rápida
+m_strOnlineUnrankedAutomatchFailed_Text=Ha ocurrido un problema durante la búsqueda de partidas rápidas. Inténtalo de nuevo.
+m_strOnlineUnrankedAutomatchFailed_ButtonText=Aceptar
+m_strOnlineReadRankedStatsFailed_Title=Error de partida igualada
+m_strOnlineReadRankedStatsFailed_Text=Ha ocurrido un problema durante la búsqueda de partidas igualadas. Inténtalo de nuevo.
+m_strOnlineReadRankedStatsFailed_ButtonText=Aceptar
+m_strOnlineReadRankedStats_Text=Leyendo estadísticas igualadas. Espera...
+m_strOnlineSearchForRankedAutomatch_Title=Partida igualada
+m_strOnlineSearchForRankedAutomatch_Text=Buscando partidas igualadas. Espera...
+m_strOnlineSearchForUnrankedAutomatch_Title=Partida no igualada
+m_strOnlineSearchForUnrankedAutomatch_Text=Buscando partidas no igualadas. Espera...
+m_strOnlineCancelCreateOnlineGame_Title=Creando partida en línea
+m_strOnlineCancelCreateLANGame_Title=Creando partida por LAN
+m_strOnlineCancelCreateSystemLinkGame_Title=Creando partida de System Link
+m_strOnlineCancelCreateOnlineGame_Text=Si no se carga pronto la partida, podría existir un problema de conexión a la red.
+m_strOnlineCancelCreateOnlineGame_ButtonText=Cancelar
+m_strSelectSaveDeviceForEditSquadPrompt=No has seleccionado ningún dispositivo de almacenamiento. Necesitas seleccionar un dispositivo de almacenamiento para guardar el equipamiento de tu pelotón. ¿Quieres seleccionar uno ahora?
+
+[XComUIShell.UIFinalShell]
+
